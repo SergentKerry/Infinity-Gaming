@@ -1,2 +1,2 @@
-#Infinity-Gaming-Development
+# Infinity Gaming
 Arma 3 Life Server Development
